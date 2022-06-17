@@ -1,0 +1,118 @@
+,url,repository_url,labels_url,comments_url,events_url,html_url,id,node_id,number,title,user,labels,state,locked,assignee,assignees,milestone,comments,created_at,updated_at,closed_at,author_association,active_lock_reason,draft,pull_request,body,reactions,timeline_url,performed_via_github_app
+0,https://api.github.com/repos/pandas-dev/pandas/issues/45175,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/45175/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/45175/comments,https://api.github.com/repos/pandas-dev/pandas/issues/45175/events,https://github.com/pandas-dev/pandas/pull/45175,1092601251,PR_kwDOAA0YD84weM43,45175,BUG: MultiIndex dtypes incorrect if level names not unique,"{'login': 'johnzangwill', 'id': 8927258, 'node_id': 'MDQ6VXNlcjg5MjcyNTg=', 'avatar_url': 'https://avatars.githubusercontent.com/u/8927258?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/johnzangwill', 'html_url': 'https://github.com/johnzangwill', 'followers_url': 'https://api.github.com/users/johnzangwill/followers', 'following_url': 'https://api.github.com/users/johnzangwill/following{/other_user}', 'gists_url': 'https://api.github.com/users/johnzangwill/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/johnzangwill/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/johnzangwill/subscriptions', 'organizations_url': 'https://api.github.com/users/johnzangwill/orgs', 'repos_url': 'https://api.github.com/users/johnzangwill/repos', 'events_url': 'https://api.github.com/users/johnzangwill/events{/privacy}', 'received_events_url': 'https://api.github.com/users/johnzangwill/received_events', 'type': 'User', 'site_admin': False}",[],open,False,,[],,0,2022-01-03T15:25:13Z,2022-01-03T15:40:14Z,,CONTRIBUTOR,,False,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/45175', 'html_url': 'https://github.com/pandas-dev/pandas/pull/45175', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/45175.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/45175.patch', 'merged_at': None}","- [x] closes #45174
+- [x] tests added / passed
+- [x] Ensure all linting tests pass, see [here](https://pandas.pydata.org/pandas-docs/dev/development/contributing_codebase.html#pre-commit) for how to run them
+- [x] whatsnew entry
+","{'url': 'https://api.github.com/repos/pandas-dev/pandas/issues/45175/reactions', 'total_count': 0, '+1': 0, '-1': 0, 'laugh': 0, 'hooray': 0, 'confused': 0, 'heart': 0, 'rocket': 0, 'eyes': 0}",https://api.github.com/repos/pandas-dev/pandas/issues/45175/timeline,
+1,https://api.github.com/repos/pandas-dev/pandas/issues/45174,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/45174/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/45174/comments,https://api.github.com/repos/pandas-dev/pandas/issues/45174/events,https://github.com/pandas-dev/pandas/issues/45174,1092563269,I_kwDOAA0YD85BHzFF,45174,BUG: MultiIndex dtypes incorrect if level names not unique,"{'login': 'johnzangwill', 'id': 8927258, 'node_id': 'MDQ6VXNlcjg5MjcyNTg=', 'avatar_url': 'https://avatars.githubusercontent.com/u/8927258?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/johnzangwill', 'html_url': 'https://github.com/johnzangwill', 'followers_url': 'https://api.github.com/users/johnzangwill/followers', 'following_url': 'https://api.github.com/users/johnzangwill/following{/other_user}', 'gists_url': 'https://api.github.com/users/johnzangwill/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/johnzangwill/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/johnzangwill/subscriptions', 'organizations_url': 'https://api.github.com/users/johnzangwill/orgs', 'repos_url': 'https://api.github.com/users/johnzangwill/repos', 'events_url': 'https://api.github.com/users/johnzangwill/events{/privacy}', 'received_events_url': 'https://api.github.com/users/johnzangwill/received_events', 'type': 'User', 'site_admin': False}","[{'id': 76811, 'node_id': 'MDU6TGFiZWw3NjgxMQ==', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Bug', 'name': 'Bug', 'color': 'e10c02', 'default': False, 'description': None}, {'id': 1954720290, 'node_id': 'MDU6TGFiZWwxOTU0NzIwMjkw', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Needs%20Triage', 'name': 'Needs Triage', 'color': '0052cc', 'default': False, 'description': 'Issue that has not been reviewed by a pandas team member'}]",open,False,"{'login': 'johnzangwill', 'id': 8927258, 'node_id': 'MDQ6VXNlcjg5MjcyNTg=', 'avatar_url': 'https://avatars.githubusercontent.com/u/8927258?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/johnzangwill', 'html_url': 'https://github.com/johnzangwill', 'followers_url': 'https://api.github.com/users/johnzangwill/followers', 'following_url': 'https://api.github.com/users/johnzangwill/following{/other_user}', 'gists_url': 'https://api.github.com/users/johnzangwill/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/johnzangwill/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/johnzangwill/subscriptions', 'organizations_url': 'https://api.github.com/users/johnzangwill/orgs', 'repos_url': 'https://api.github.com/users/johnzangwill/repos', 'events_url': 'https://api.github.com/users/johnzangwill/events{/privacy}', 'received_events_url': 'https://api.github.com/users/johnzangwill/received_events', 'type': 'User', 'site_admin': False}","[{'login': 'johnzangwill', 'id': 8927258, 'node_id': 'MDQ6VXNlcjg5MjcyNTg=', 'avatar_url': 'https://avatars.githubusercontent.com/u/8927258?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/johnzangwill', 'html_url': 'https://github.com/johnzangwill', 'followers_url': 'https://api.github.com/users/johnzangwill/followers', 'following_url': 'https://api.github.com/users/johnzangwill/following{/other_user}', 'gists_url': 'https://api.github.com/users/johnzangwill/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/johnzangwill/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/johnzangwill/subscriptions', 'organizations_url': 'https://api.github.com/users/johnzangwill/orgs', 'repos_url': 'https://api.github.com/users/johnzangwill/repos', 'events_url': 'https://api.github.com/users/johnzangwill/events{/privacy}', 'received_events_url': 'https://api.github.com/users/johnzangwill/received_events', 'type': 'User', 'site_admin': False}]",,1,2022-01-03T14:35:05Z,2022-01-03T14:35:54Z,,CONTRIBUTOR,,,,"### Pandas version checks
+
+- [X] I have checked that this issue has not already been reported.
+
+- [X] I have confirmed this bug exists on the [latest version](https://pandas.pydata.org/docs/whatsnew/index.html) of pandas.
+
+- [X] I have confirmed this bug exists on the master branch of pandas.
+
+
+### Reproducible Example
+
+```python
+import pandas as pd
+index = pd.MultiIndex.from_arrays([[1], [2]], names=[1, 1])
+index.dtypes
+1    int64
+dtype: object
+```
+
+
+### Issue Description
+
+If there are duplicate multiIndex levels then dtypes only returns one entry for all the matching levels rather than one for each level
+
+### Expected Behavior
+
+```
+import pandas as pd
+index = pd.MultiIndex.from_arrays([[1], [2]], names=[1, 1])
+index.dtypes
+1    int64
+1    int64
+dtype: object
+```
+
+### Installed Versions
+
+<details>
+
+INSTALLED VERSIONS
+------------------
+commit           : 90933743f289abab5673943fb3a398a00c87b76b
+python           : 3.8.12.final.0
+python-bits      : 64
+OS               : Windows
+OS-release       : 10
+Version          : 10.0.19043
+machine          : AMD64
+processor        : Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
+byteorder        : little
+LC_ALL           : None
+LANG             : None
+LOCALE           : English_United Kingdom.1252
+
+pandas           : 1.4.0.dev0+1555.g90933743f2
+numpy            : 1.21.5
+pytz             : 2021.3
+dateutil         : 2.8.2
+pip              : 21.3.1
+setuptools       : 60.0.5
+Cython           : 0.29.26
+pytest           : 6.2.5
+hypothesis       : 6.32.1
+sphinx           : 4.3.2
+blosc            : None
+feather          : None
+xlsxwriter       : 3.0.2
+lxml.etree       : 4.7.1
+html5lib         : 1.1
+pymysql          : None
+psycopg2         : None
+jinja2           : 3.0.3
+IPython          : 7.30.1
+pandas_datareader: None
+bs4              : 4.10.0
+bottleneck       : 1.3.2
+fsspec           : 2021.11.0
+fastparquet      : 0.7.2
+gcsfs            : 2021.11.0
+matplotlib       : 3.5.1
+numexpr          : 2.8.0
+odfpy            : None
+openpyxl         : 3.0.9
+pandas_gbq       : None
+pyarrow          : 6.0.1
+pyxlsb           : None
+s3fs             : 2021.11.0
+scipy            : 1.7.3
+sqlalchemy       : 1.4.29
+tables           : 3.6.1
+tabulate         : 0.8.9
+xarray           : 0.18.2
+xlrd             : 2.0.1
+xlwt             : 1.3.0
+numba            : 0.53.1
+zstandard        : None
+</details>
+","{'url': 'https://api.github.com/repos/pandas-dev/pandas/issues/45174/reactions', 'total_count': 0, '+1': 0, '-1': 0, 'laugh': 0, 'hooray': 0, 'confused': 0, 'heart': 0, 'rocket': 0, 'eyes': 0}",https://api.github.com/repos/pandas-dev/pandas/issues/45174/timeline,
+2,https://api.github.com/repos/pandas-dev/pandas/issues/45173,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/45173/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/45173/comments,https://api.github.com/repos/pandas-dev/pandas/issues/45173/events,https://github.com/pandas-dev/pandas/pull/45173,1092550075,PR_kwDOAA0YD84weCTZ,45173,STYLE add vulture hook,"{'login': 'MarcoGorelli', 'id': 33491632, 'node_id': 'MDQ6VXNlcjMzNDkxNjMy', 'avatar_url': 'https://avatars.githubusercontent.com/u/33491632?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/MarcoGorelli', 'html_url': 'https://github.com/MarcoGorelli', 'followers_url': 'https://api.github.com/users/MarcoGorelli/followers', 'following_url': 'https://api.github.com/users/MarcoGorelli/following{/other_user}', 'gists_url': 'https://api.github.com/users/MarcoGorelli/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/MarcoGorelli/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/MarcoGorelli/subscriptions', 'organizations_url': 'https://api.github.com/users/MarcoGorelli/orgs', 'repos_url': 'https://api.github.com/users/MarcoGorelli/repos', 'events_url': 'https://api.github.com/users/MarcoGorelli/events{/privacy}', 'received_events_url': 'https://api.github.com/users/MarcoGorelli/received_events', 'type': 'User', 'site_admin': False}","[{'id': 106935113, 'node_id': 'MDU6TGFiZWwxMDY5MzUxMTM=', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Code%20Style', 'name': 'Code Style', 'color': 'eb6420', 'default': False, 'description': 'Code style, linting, code_checks'}]",open,False,,[],,2,2022-01-03T14:17:49Z,2022-01-03T15:38:57Z,,MEMBER,,False,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/45173', 'html_url': 'https://github.com/pandas-dev/pandas/pull/45173', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/45173.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/45173.patch', 'merged_at': None}","xref #27396
+
+The `return` in `pandas/tests/io/test_common.py` was added in #39777 - @twoertwein are the two lines which come after it meant to be skipped?
+
+The `return; yield` comes from #12032 - the proposed change achieves the same thing (taken from https://stackoverflow.com/a/13243870/4451315)","{'url': 'https://api.github.com/repos/pandas-dev/pandas/issues/45173/reactions', 'total_count': 0, '+1': 0, '-1': 0, 'laugh': 0, 'hooray': 0, 'confused': 0, 'heart': 0, 'rocket': 0, 'eyes': 0}",https://api.github.com/repos/pandas-dev/pandas/issues/45173/timeline,
+3,https://api.github.com/repos/pandas-dev/pandas/issues/45171,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/45171/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/45171/comments,https://api.github.com/repos/pandas-dev/pandas/issues/45171/events,https://github.com/pandas-dev/pandas/pull/45171,1092271890,PR_kwDOAA0YD84wdHw6,45171,allow multiple series argument calling in ufunc,"{'login': 'miettal', 'id': 118803, 'node_id': 'MDQ6VXNlcjExODgwMw==', 'avatar_url': 'https://avatars.githubusercontent.com/u/118803?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/miettal', 'html_url': 'https://github.com/miettal', 'followers_url': 'https://api.github.com/users/miettal/followers', 'following_url': 'https://api.github.com/users/miettal/following{/other_user}', 'gists_url': 'https://api.github.com/users/miettal/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/miettal/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/miettal/subscriptions', 'organizations_url': 'https://api.github.com/users/miettal/orgs', 'repos_url': 'https://api.github.com/users/miettal/repos', 'events_url': 'https://api.github.com/users/miettal/events{/privacy}', 'received_events_url': 'https://api.github.com/users/miettal/received_events', 'type': 'User', 'site_admin': False}",[],open,False,,[],,1,2022-01-03T07:04:04Z,2022-01-03T08:46:44Z,,NONE,,False,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/45171', 'html_url': 'https://github.com/pandas-dev/pandas/pull/45171', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/45171.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/45171.patch', 'merged_at': None}","- [ ] closes #39853
+- [ ] tests added / passed
+- [ ] Ensure all linting tests pass, see [here](https://pandas.pydata.org/pandas-docs/dev/development/contributing_codebase.html#pre-commit) for how to run them
+- [ ] whatsnew entry
+","{'url': 'https://api.github.com/repos/pandas-dev/pandas/issues/45171/reactions', 'total_count': 0, '+1': 0, '-1': 0, 'laugh': 0, 'hooray': 0, 'confused': 0, 'heart': 0, 'rocket': 0, 'eyes': 0}",https://api.github.com/repos/pandas-dev/pandas/issues/45171/timeline,
+4,https://api.github.com/repos/pandas-dev/pandas/issues/45170,https://api.github.com/repos/pandas-dev/pandas,https://api.github.com/repos/pandas-dev/pandas/issues/45170/labels{/name},https://api.github.com/repos/pandas-dev/pandas/issues/45170/comments,https://api.github.com/repos/pandas-dev/pandas/issues/45170/events,https://github.com/pandas-dev/pandas/pull/45170,1092216466,PR_kwDOAA0YD84wc8FP,45170,PERF: expanding/rolling.min/max with engine='numba',"{'login': 'mroeschke', 'id': 10647082, 'node_id': 'MDQ6VXNlcjEwNjQ3MDgy', 'avatar_url': 'https://avatars.githubusercontent.com/u/10647082?v=4', 'gravatar_id': '', 'url': 'https://api.github.com/users/mroeschke', 'html_url': 'https://github.com/mroeschke', 'followers_url': 'https://api.github.com/users/mroeschke/followers', 'following_url': 'https://api.github.com/users/mroeschke/following{/other_user}', 'gists_url': 'https://api.github.com/users/mroeschke/gists{/gist_id}', 'starred_url': 'https://api.github.com/users/mroeschke/starred{/owner}{/repo}', 'subscriptions_url': 'https://api.github.com/users/mroeschke/subscriptions', 'organizations_url': 'https://api.github.com/users/mroeschke/orgs', 'repos_url': 'https://api.github.com/users/mroeschke/repos', 'events_url': 'https://api.github.com/users/mroeschke/events{/privacy}', 'received_events_url': 'https://api.github.com/users/mroeschke/received_events', 'type': 'User', 'site_admin': False}","[{'id': 8935311, 'node_id': 'MDU6TGFiZWw4OTM1MzEx', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Performance', 'name': 'Performance', 'color': 'a10c02', 'default': False, 'description': 'Memory or execution speed performance'}, {'id': 1045950827, 'node_id': 'MDU6TGFiZWwxMDQ1OTUwODI3', 'url': 'https://api.github.com/repos/pandas-dev/pandas/labels/Window', 'name': 'Window', 'color': 'd4c5f9', 'default': False, 'description': 'rolling, ewma, expanding'}]",open,False,,[],,0,2022-01-03T04:25:59Z,2022-01-03T05:50:38Z,,MEMBER,,False,"{'url': 'https://api.github.com/repos/pandas-dev/pandas/pulls/45170', 'html_url': 'https://github.com/pandas-dev/pandas/pull/45170', 'diff_url': 'https://github.com/pandas-dev/pandas/pull/45170.diff', 'patch_url': 'https://github.com/pandas-dev/pandas/pull/45170.patch', 'merged_at': None}","- [x] tests added / passed
+- [x] Ensure all linting tests pass, see [here](https://pandas.pydata.org/pandas-docs/dev/development/contributing_codebase.html#pre-commit) for how to run them
+- [x] whatsnew entry
+","{'url': 'https://api.github.com/repos/pandas-dev/pandas/issues/45170/reactions', 'total_count': 0, '+1': 0, '-1': 0, 'laugh': 0, 'hooray': 0, 'confused': 0, 'heart': 0, 'rocket': 0, 'eyes': 0}",https://api.github.com/repos/pandas-dev/pandas/issues/45170/timeline,

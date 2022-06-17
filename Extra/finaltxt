@@ -1,0 +1,12 @@
+
+2.  Fix Folder as Workspace not updating regression.
+4.  Fixed a crash when trying to launch a secondary instance with command line arguments.
+
+Included plugins:
+1.  NppExport v0.2.8 (32-bit x86 only)
+3.  Mime Tool 2.1
+
+Updater (Installer only):
+* WinGup (for Notepad++) v5.0.2
+adlcaksc
+djdac ad adjcac jcda cjdad jvd
