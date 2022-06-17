@@ -1,0 +1,15 @@
+2021-11-15 19:50:20,191 INFO This is my first test code for log
+2021-11-15 19:50:20,747 INFO This info for logger 1
+2021-11-15 19:50:20,749 INFO This is info for logger 2
+ root - 2021-11-15 22:54:28,768 - INFO - main log
+ user1 - 2021-11-15 22:54:28,771 - INFO - This info for logger 1
+ user2 - 2021-11-15 22:54:28,773 - INFO - This is info for logger 2
+ root - 2021-11-15 22:54:55,431 - INFO - main log
+ user1 - 2021-11-15 22:54:55,434 - INFO - This info for logger 1
+ user2 - 2021-11-15 22:54:55,436 - INFO - This is info for logger 2
+ root - 2021-11-15 22:55:20,075 - INFO - main log
+ user1 - 2021-11-15 22:55:20,077 - INFO - This info for logger 1
+ user2 - 2021-11-15 22:55:20,079 - INFO - This is info for logger 2
+ root - 2021-11-15 23:02:35,661 - INFO - main log
+ user1 - 2021-11-15 23:02:35,663 - INFO - This info for logger 1
+ user2 - 2021-11-15 23:02:35,665 - INFO - This is info for logger 2

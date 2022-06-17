@@ -1,0 +1,151 @@
+INFO:root:I am going to start my program
+WARNING:root:This is the first warning of my program so modify it
+ERROR:root:This message is for error
+INFO:root:I am going to start my program
+WARNING:root:This is the first warning of my program so modify it
+ERROR:root:This message is for error
+INFO:root:I am going to start my program
+WARNING:root:This is the first warning of my program so modify it
+ERROR:root:This message is for error
+2021-11-10 16:10:37,677 I am going to start my program
+2021-11-10 16:10:37,885 This is the first warning of my program so modify it
+2021-11-10 16:10:38,091 This message is for error
+2021-11-10 16:38:45,538 error has occured
+2021-11-10 16:38:45,539 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-15-6a0b4f67ed40>", line 4, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-11-10 17:25:51,964 I am going to start my program
+2021-11-10 17:25:52,176 This is the first warning of my program so modify it
+2021-11-10 17:25:52,394 This message is for error
+2021-11-10 17:25:53,733 error has occured
+2021-11-10 17:25:53,733 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-17-1772492f91b6>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-11-10 17:26:04,778 error has occured
+2021-11-10 17:26:04,778 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-20-1772492f91b6>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-11-10 17:29:22,455 I am going to start my program
+2021-11-10 17:29:22,652 This is the first warning of my program so modify it
+2021-11-10 17:29:22,856 This message is for error
+2021-11-10 17:29:24,060 error has occured
+2021-11-10 17:29:24,060 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-14-1772492f91b6>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-11-10 17:29:24,422 This is a start function
+2021-11-11 01:06:38,050 I am going to start my program
+2021-11-11 01:06:38,293 This is the first warning of my program so modify it
+2021-11-11 01:06:38,520 This message is for error
+2021-11-11 01:06:39,933 error has occured
+2021-11-11 01:06:39,933 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-15-1772492f91b6>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-11-11 01:06:40,355 This is a start function
+2021-11-11 01:09:44,570 This is info log
+2021-11-11 01:09:44,572 This is my warning log
+2021-11-11 01:09:44,573 This is my error log
+2021-11-11 01:09:44,573 This is my exception log
+NoneType: None
+2021-11-11 01:09:44,574 This is my critical log
+2021-11-11 01:10:31,006 This is a start function
+2021-11-11 01:10:32,601 This is info log
+2021-11-11 01:10:32,602 This is my warning log
+2021-11-11 01:10:32,602 This is my error log
+2021-11-11 01:10:32,602 This is my exception log
+NoneType: None
+2021-11-11 01:10:32,603 This is my critical log
+2021-11-11 02:12:25,077 I am going to start my program
+2021-11-11 02:12:25,299 This is the first warning of my program so modify it
+2021-11-11 02:12:25,515 This message is for error
+2021-11-11 02:12:26,836 error has occured
+2021-11-11 02:12:26,837 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-14-1772492f91b6>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-11-11 02:12:27,753 This is info log
+2021-11-11 02:12:27,753 This is my warning log
+2021-11-11 02:12:27,754 This is my error log
+2021-11-11 02:12:27,754 This is my exception log
+NoneType: None
+2021-11-11 02:12:27,754 This is my critical log
+2021-11-14 22:24:09,124 I am going to start my program
+2021-11-14 22:24:09,335 This is the first warning of my program so modify it
+2021-11-14 22:24:09,534 This message is for error
+2021-11-14 22:24:10,801 error has occured
+2021-11-14 22:24:10,801 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-17-1772492f91b6>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-11-14 22:24:11,562 This is info log
+2021-11-14 22:24:11,563 This is my warning log
+2021-11-14 22:24:11,563 This is my error log
+2021-11-14 22:24:11,563 This is my exception log
+NoneType: None
+2021-11-14 22:24:11,563 This is my critical log
+2021-11-14 22:26:38,175 I am going to start my program
+2021-11-14 22:26:38,378 This is the first warning of my program so modify it
+2021-11-14 22:26:38,576 This message is for error
+2021-11-14 22:26:39,812 error has occured
+2021-11-14 22:26:39,812 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-17-1772492f91b6>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-11-14 22:26:40,677 This is info log
+2021-11-14 22:26:40,678 This is my warning log
+2021-11-14 22:26:40,678 This is my error log
+2021-11-14 22:26:40,678 This is my exception log
+NoneType: None
+2021-11-14 22:26:40,679 This is my critical log
+2021-11-15 14:20:58,002 I am going to start my program
+2021-11-15 14:20:58,201 This is the first warning of my program so modify it
+2021-11-15 14:20:58,401 This message is for error
+2021-11-15 14:20:59,654 error has occured
+2021-11-15 14:20:59,654 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-17-1772492f91b6>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-11-15 14:21:00,457 This is info log
+2021-11-15 14:21:00,458 This is my warning log
+2021-11-15 14:21:00,458 This is my error log
+2021-11-15 14:21:00,458 This is my exception log
+NoneType: None
+2021-11-15 14:21:00,458 This is my critical log
+2021-11-15 14:25:43,806 I am going to start my program
+2021-11-15 14:25:44,009 This is the first warning of my program so modify it
+2021-11-15 14:25:44,215 This message is for error
+2021-11-15 14:25:45,488 error has occured
+2021-11-15 14:25:45,489 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-17-1772492f91b6>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-11-15 14:25:46,287 This is info log
+2021-11-15 14:25:46,288 This is my warning log
+2021-11-15 14:25:46,288 This is my error log
+2021-11-15 14:25:46,288 This is my exception log
+NoneType: None
+2021-11-15 14:25:46,288 This is my critical log
+2021-11-15 14:32:39,305 This is my addition function
+2021-11-15 14:32:39,306 1
+2021-11-15 14:32:39,307 2
+2021-11-15 14:32:39,307 3
+2021-11-15 14:32:39,307 4
+2021-11-15 14:32:59,130 This is my addition function
+2021-11-15 14:32:59,130 1
+2021-11-15 14:32:59,131 2
+2021-11-15 14:32:59,131 3
+2021-11-15 14:32:59,131 4

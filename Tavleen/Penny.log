@@ -1,0 +1,12 @@
+INFO:root:Inside sum function
+INFO:root:User inputs (2, 4, 5, 6, 7, 7, 7)
+INFO:root:Inside sum function
+INFO:root:User inputs (2, 4, 5, 6, 7, 7, 7)
+INFO:root:Inside sum function
+INFO:root:User inputs (2, 4, 5, 6, 7, 7, 7)
+INFO:root:Inside sum function
+INFO:root:User inputs (2, 4, 5, 6, 7, 7, 7)
+2021-11-15 17:53:42,340 - Inside sum function
+2021-11-15 17:53:42,340 - User inputs (2, 4, 5, 6, 7, 7, 7)
+2021-11-21 08:03:43,234 - Inside sum function
+2021-11-21 08:03:43,234 - User inputs (2, 4, 5, 6, 7, 7, 7)

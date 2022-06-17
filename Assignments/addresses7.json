@@ -1,0 +1,44 @@
+{
+    "names": [
+        {
+            "firstname": "Jack",
+            "lastname": "McGinnis",
+            "Building": "220 hobo Av.",
+            "Town": "Phila",
+            "City": " PA",
+            "Pin": "09119"
+        },
+        {
+            "firstname": "John \"Da Man\"",
+            "lastname": "Repici",
+            "Building": "120 Jefferson St.",
+            "Town": "Riverside",
+            "City": " NJ",
+            "Pin": "08075"
+        },
+        {
+            "firstname": "Stephen",
+            "lastname": "Tyler",
+            "Building": "7452 Terrace \"At the Plaza\" road",
+            "Town": "SomeTown",
+            "City": "SD",
+            "Pin": " 91234"
+        },
+        {
+            "firstname": "",
+            "lastname": "Blankman",
+            "Building": "",
+            "Town": "SomeTown",
+            "City": " SD",
+            "Pin": " 00298"
+        },
+        {
+            "firstname": "Joan \"the bone\", Anne",
+            "lastname": "Jet",
+            "Building": "9th, at Terrace plc",
+            "Town": "Desert City",
+            "City": "CO",
+            "Pin": "00123"
+        }
+    ]
+}
